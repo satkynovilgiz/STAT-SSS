@@ -6,9 +6,7 @@
 * **Demystify ML Math:** Understand *why* algorithms work under the hood (e.g., Maximum Likelihood Estimation behind Logistic Regression, Bayes' Theorem in Naive Bayes).
 * **From-Scratch Implementations:** Build statistical tests, probability distributions, and estimators from the ground up using `NumPy` before validating them with `SciPy` and `Statsmodels`.
 * **Visual Intuition:** Use clear data visualizations to demonstrate concepts like the Central Limit Theorem, bias-variance tradeoff, and p-value distributions.
-
 ---
-
 ## 📂 Repository Structure
 
 ```text
