@@ -12,7 +12,6 @@
 ## 📂 Repository Structure
 ```text
 
-
 STAT-SS/
 ├── 01_Descriptive_Statistics/    # Mean, median, variance, skewness, kurtosis, covariance
 ├── 02_Probability_Distributions/ # Normal, Binomial, Poisson, Exponential, PDF/CDF simulations
