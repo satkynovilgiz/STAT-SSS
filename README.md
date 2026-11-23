@@ -27,3 +27,5 @@ STAT-SS/
 - Collaborated with Ilgiz
 
 - Pair programming note with Nursel
+
+- Co-authored note #3 with Nursel
