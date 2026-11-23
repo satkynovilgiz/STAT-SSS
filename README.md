@@ -23,3 +23,5 @@ STAT-SS/
 ├── utils/                        # Helper functions for plotting and metric calculations
 ├── requirements.txt              # Project dependencies
 └── README.md                     # Project documentation
+
+- Collaborated with Ilgiz
