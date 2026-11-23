@@ -7,8 +7,6 @@
 * **From-Scratch Implementations:** Build statistical tests, probability distributions, and estimators from the ground up using `NumPy` before validating them with `SciPy` and `Statsmodels`.
 * **Visual Intuition:** Use clear data visualizations to demonstrate concepts like the Central Limit Theorem, bias-variance tradeoff, and p-value distributions.
 
----
-
 ## 📂 Repository Structure
 
 ```text
