@@ -1,9 +1,7 @@
 # STAT-SS: Statistics for Machine Learning 📊🤖
 
 **STAT-SS** is a comprehensive, code-first repository dedicated to building a rock-solid statistical foundation for Machine Learning and Data Science. Rather than treating statistics as purely abstract theory, this project bridges the gap between mathematical formulas and real-world ML algorithms using Python.
-
 ---
-
 ## 🎯 Project Objectives
 * **Demystify ML Math:** Understand *why* algorithms work under the hood (e.g., Maximum Likelihood Estimation behind Logistic Regression, Bayes' Theorem in Naive Bayes).
 * **From-Scratch Implementations:** Build statistical tests, probability distributions, and estimators from the ground up using `NumPy` before validating them with `SciPy` and `Statsmodels`.
