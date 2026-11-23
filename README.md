@@ -8,8 +8,9 @@
 * **Visual Intuition:** Use clear data visualizations to demonstrate concepts like the Central Limit Theorem, bias-variance tradeoff, and p-value distributions.
 
 ## 📂 Repository Structure
-
 ```text
+
+
 STAT-SS/
 ├── 01_Descriptive_Statistics/    # Mean, median, variance, skewness, kurtosis, covariance
 ├── 02_Probability_Distributions/ # Normal, Binomial, Poisson, Exponential, PDF/CDF simulations
