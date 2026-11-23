@@ -25,3 +25,5 @@ STAT-SS/
 └── README.md                     # Project documentation
 
 - Collaborated with Ilgiz
+
+- Co-authored update with Nursel
